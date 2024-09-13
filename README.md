@@ -1,3 +1,5 @@
+The dataset used is from kaggle. You can download the dataset from the link below: https://www.kaggle.com/c/fake-news/data
+
 # Fake News Detection
 
 This project is a fake news detection system that uses machine learning to classify news articles as real or fake. The system is built using Python and the scikit-learn library.
